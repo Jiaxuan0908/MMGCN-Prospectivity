@@ -1,0 +1,16 @@
+# Deep Learning Core
+torch>=2.0.0
+dgl>=1.1.2
+
+# Data Processing & Machine Learning
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.2
+
+# Experiment Tracking & Hyperparameter Tuning
+wandb>=0.15.0
+nni>=2.10.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
